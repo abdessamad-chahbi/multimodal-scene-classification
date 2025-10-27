@@ -7,7 +7,7 @@
 
 ## 📘 Table of Contents
 
-- Project overview  
+- Project Overview  
 - Objectives  
 - Dataset  
 - Methodology  
